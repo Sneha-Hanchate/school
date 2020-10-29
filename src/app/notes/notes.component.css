@@ -1,0 +1,27 @@
+button{
+  /* border-radius: 50%; */
+  margin: 3%;
+  background-color: #B2FF59;
+  font-size: 100%;
+  color: white;
+}
+.card{
+  /* background-color: #9C27B0; */
+  background-image: url(https://image.freepik.com/free-vector/chemical-physics-blue-outline-horizontal-illustration_104589-398.jpg);
+  border-radius: 10%;
+  background-repeat: no-repeat;
+  box-shadow:0.3px 3px grey;
+
+  color: white;
+  margin-top: 10%;
+}
+
+#chemistry{
+  background-image: url("/assets/note3.jpg");
+}
+#physics{
+  background-image: url("/assets/note2.jpg");
+}
+#maths{
+  background-image: url("/assets/note1.jpg");
+}

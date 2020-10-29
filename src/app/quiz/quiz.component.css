@@ -1,0 +1,25 @@
+.card{
+  color: white;
+  background-image: url("/assets/quizz.jpg");
+  background-repeat: no-repeat;
+background-size: cover;
+height: 90%;
+}
+
+button:hover{
+  background-color: white;
+  color: black;
+}
+
+h1{
+  font-size: 1.5rem;
+}
+h4{
+  font-size: 1rem;
+}
+h3{
+  font-size: 1rem;
+}
+h5{
+  font-size: 1rem;
+}

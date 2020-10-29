@@ -1,0 +1,12 @@
+table, td, th,tr {
+  border: 4px solid white;
+  color:white;
+}
+
+#Attendance{
+  background-image: url('/assets/a7.jpg');
+  height: auto;
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
